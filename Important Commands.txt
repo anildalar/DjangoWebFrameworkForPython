@@ -1,0 +1,38 @@
+where.exe python
+where python
+
+C:\PythonXX
+C:\Users\(Your logged in User)\AppData\Local\Programs\Python\PythonXX
+
+
+XX = Version Number
+e.g  Python36 mean Python 3.6 version
+
+
+
+py -m pip install --upgrade pip
+
+py -m pip --version
+
+py -m pip install --user virtualenv
+
+py -m venv <vitualEnvName>
+py -m venv env
+
+
+
+
+pip freeze
+
+source ./env/Scripts/activate
+
+deacticate
+
+pip install django
+
+django-admin startproject flipkart .
+
+python manage.py runserver
+python manage.py collectstatic
+
+
